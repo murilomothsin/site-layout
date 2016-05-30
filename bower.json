@@ -1,0 +1,24 @@
+{
+  "name": "site",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Murilo Mothsin <murilo.mothsin@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "amd"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.6",
+  }
+}

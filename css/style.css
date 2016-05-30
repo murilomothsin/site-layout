@@ -1,0 +1,31 @@
+.about-me {
+  background-color: #fef4d9;
+  border-right: 2px solid #efefef;
+  /*border-right: 20px solid transparent;
+  border-image: url('../image/border1.png') 40 round;*/
+  position: fixed;
+  min-height:100%;
+  padding: 15px;
+}
+
+.about-me p {
+  text-align: justify;
+}
+
+.sc-links {
+  padding: 5px;
+  position: fixed;
+  bottom: 0;
+}
+.sc-links img {
+  margin: 10px;
+  width: 32px;
+}
+
+.radius-image {
+  border-radius: 50%;
+}
+
+.content-display {
+  padding: 30px;
+}
